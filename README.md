@@ -1,1 +1,1 @@
-# SottUni
+# SoftUni
